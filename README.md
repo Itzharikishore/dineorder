@@ -1,4 +1,4 @@
-Django Restaurant Ordering System 🍽
+Django Restaurant Ordering System 🍽️
 A full-featured web-based restaurant menu and ordering system built with Django. Users can browse menu items, filter by category, add items to a cart, and place orders. Includes authentication, search, and order management.
 
 🚀 Features
@@ -11,7 +11,7 @@ Order summary page
 Search functionality
 Login-required pages with redirect support
 Admin-ready with Django's built-in admin panel
-🛠 Tech Stack
+🛠️ Tech Stack
 Backend: Django (Python)
 Frontend: HTML, CSS (custom templates)
 Database: SQLite (default, easy to swap)
@@ -21,7 +21,7 @@ django-restaurant-ordering/
 ├── customer/
 │   ├── migrations/
 │   ├── templates/customer/
-│   ├── _init_.py
+│   ├── __init__.py
 │   ├── admin.py
 │   ├── apps.py
 │   ├── forms.py
@@ -30,7 +30,7 @@ django-restaurant-ordering/
 │   ├── urls.py
 │   └── views.py
 ├── django_project/
-│   ├── _init_.py
+│   ├── __init__.py
 │   ├── settings.py
 │   ├── urls.py
 │   └── wsgi.py
